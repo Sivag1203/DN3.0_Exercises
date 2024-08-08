@@ -5,6 +5,6 @@ public class BookRepository {
         System.out.println("Book repository class object is created using spring");
     }
     public  void success(){
-        System.out.println("Vanthuruchu da mapla");
+        System.out.println("Success");
     }
 }
